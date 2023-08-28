@@ -16,7 +16,7 @@ const Main = () =>{
         <Sidebar openDrawer={openDrawer}></Sidebar>
         </div>
         <div>
-            Display Mail
+            Display
         </div>
 
         </>
